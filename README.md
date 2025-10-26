@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Diogo Lobo  
+# 👋 Hey there, I'm Diogo Lobo  
 
 🎓 **Computer Science Student** at [Instituto Superior Técnico (IST)](https://tecnico.ulisboa.pt/en/) — **University of Lisbon**  
 💻 Currently in my **3rd year**  
@@ -9,20 +9,36 @@
 ## 🚀 About Me  
 
 I'm a passionate **Computer Science student** who loves exploring everything tech-related!  
-My interests include:  
+I enjoy:  
 - 🧑‍💻 **Cybersecurity** — ethical hacking, pentesting, and CTFs  
-- ⚙️ **Software Development** — building projects that solve real problems  
-- 🌐 **Web Development** — from front-end to back-end  
-- 🤖 **Artificial Intelligence & Automation**  
+- ⚙️ **Software Development** — building efficient and creative solutions  
+- 🌐 **Web Development** — full-stack projects with modern frameworks  
+- 🐧 **Linux Enthusiast** — daily driver, terminal enjoyer, Pop!\_OS user, and *proud non-Arch user 😎*  
 - 🧠 **Problem Solving & Algorithms**  
-- ☕ **Learning new technologies** and improving every day  
+- ☕ Constantly learning, breaking things (on purpose), and fixing them better  
 
 ---
 
 ## 🧰 Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,ts,c,cpp,java,bash" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,ts,c,cpp,java,bash,linux,gimp" />
+</p>
+
+<p align="center">
+  <a href="https://tryhackme.com/p/loboes" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-%2312100E.svg?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Tech Philosophy  
+
+<p align="center">
+  <strong>Code smart. Stay curious. Automate everything.</strong><br>
+  🐧 I live in the terminal — Pop!\_OS is my playground.<br>
+  I might not use Arch, but I *definitely* know my way around Linux 😉
 </p>
 
 ---
@@ -39,9 +55,9 @@ My interests include:
 ## 🌟 Extra Stuff  
 
 - 🧩 Always open to collaboration and learning  
-- 💬 Ask me about **Cybersecurity**, **Python**, or **React**  
-- 🌱 Currently learning **TypeScript**, **C++ optimization**, and **ethical hacking**  
-- ⚡ Fun fact: I love solving CTF challenges and building tools that automate boring stuff 😄  
+- 💬 Ask me about **Cybersecurity**, **Linux**, **Python**, or **React**  
+- 🌱 Currently diving deeper into **TypeScript**, **C++ optimization**, and **ethical hacking**  
+- ⚡ Fun fact: My scripts either fix problems or *create new ones to fix later*  
 
 ---
 
@@ -51,8 +67,11 @@ My interests include:
   <a href="https://github.com/Diogo1457" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://tryhackme.com/p/loboes" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-1E1E2A?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-⭐️ *"Talk is cheap. Show me the code." — Linus Torvalds*  
+⭐️ *“Talk is cheap. Show me the code.” — Linus Torvalds*  
