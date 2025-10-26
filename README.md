@@ -15,14 +15,14 @@ I enjoy:
 - 🌐 **Web Development** — full-stack projects with modern frameworks  
 - 🐧 **Linux Enthusiast** — daily driver, terminal enjoyer, Pop!\_OS user, and *proud non-Arch user 😎*  
 - 🧠 **Problem Solving & Algorithms**  
-- ☕ Constantly learning, breaking things (on purpose), and fixing them better  
-
+- ☕ Constantly learning, breaking things (on purpose), and fixing them better
+- ⚙️ **Docker & Kubernetes** — I love building, scaling, and automating systems that just *work*, powered by Linux
 ---
 
 ## 🧰 Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,ts,c,cpp,java,bash,linux,gimp" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,ts,c,cpp,java,bash,linux,vscode,docker,git,kubernetes,neovim,photoshop,windows,unity,cs" />
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ I enjoy:
 ## 🌟 Extra Stuff  
 
 - 🧩 Always open to collaboration and learning  
-- 💬 Ask me about **Cybersecurity**, **Linux**, **Python**, or **React**  
+- 💬 Ask me about **Cybersecurity**, **Linux**, **Docker**, **Python**, or **React**  
 - 🌱 Currently diving deeper into **TypeScript**, **C++ optimization**, and **ethical hacking**  
 - ⚡ Fun fact: My scripts either fix problems or *create new ones to fix later*  
 
