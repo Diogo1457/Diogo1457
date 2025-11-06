@@ -67,9 +67,10 @@ I enjoy:
   <a href="https://github.com/Diogo1457" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://tryhackme.com/p/loboes" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/loboes.png" alt="Your Image Badge" />
+  </a>
 </p>
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1087198" style='border:none;'></iframe>
 
 ---
 
